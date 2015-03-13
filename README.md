@@ -5,6 +5,9 @@
 ## Completed write-ups
 
 * [Survey](survey)
+* [Coney](coney)
+* [Every 7 Seconds](every-7-seconds)
+* [SQL](SQL)
 
 ## External write-ups only
 
@@ -36,9 +39,6 @@
 * [&lt;h1&gt;&lt;/h1&gt;](h1)
 * [Overflow](overflow)
 * [Cookies](cookies)
-* [SQL](SQL)
-* [Coney](coney)
-* [Every 7 Seconds](every-7-seconds)
 * [196-Algorithm](196-algorithm)
 * [Q.E.S.](QES)
 * [Slashes](slashed)

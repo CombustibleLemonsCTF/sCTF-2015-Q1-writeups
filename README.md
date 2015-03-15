@@ -8,6 +8,7 @@
 * [Coney](coney)
 * [Every 7 Seconds](every-7-seconds)
 * [SQL](SQL)
+* [Overflow 2](overflow-2)
 
 ## External write-ups only
 
@@ -42,7 +43,6 @@
 * [196-Algorithm](196-algorithm)
 * [Q.E.S.](QES)
 * [Slashes](slashed)
-* [Overflow 2](overflow-2)
 * [Degrees Kelvin](degrees-kelvin)
 * [Obfuscated Python](obfuscated-python)
 * [Acoustician](acoustician)

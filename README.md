@@ -1,4 +1,4 @@
-# sCTF 2015 Q1 write-ups
+# sCTF 2015 Q1 Writeups
 * <http://sctf.io/>
 * [Scoreboard](http://compete.sctf.io/scoreboard.php)
 
